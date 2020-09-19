@@ -1,0 +1,12 @@
+c:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\rls\debug\deps\cc-a6cdfbca48df2961.rmeta: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\registry.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\winapi.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\com.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\setup_config.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\windows_registry.rs
+
+c:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\rls\debug\deps\libcc-a6cdfbca48df2961.rlib: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\registry.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\winapi.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\com.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\setup_config.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\windows_registry.rs
+
+c:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\rls\debug\deps\cc-a6cdfbca48df2961.d: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\registry.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\winapi.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\com.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\setup_config.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\windows_registry.rs
+
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\lib.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\registry.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\winapi.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\com.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\setup_config.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cc-1.0.60\src\windows_registry.rs:
