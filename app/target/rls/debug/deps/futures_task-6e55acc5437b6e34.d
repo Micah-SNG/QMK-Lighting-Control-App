@@ -1,0 +1,11 @@
+c:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\rls\debug\deps\futures_task-6e55acc5437b6e34.rmeta: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.5\src\lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.5\src\spawn.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.5\src\future_obj.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.5\src\noop_waker.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.5\src\arc_wake.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.5\src\waker.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.5\src\waker_ref.rs
+
+c:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\rls\debug\deps\futures_task-6e55acc5437b6e34.d: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.5\src\lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.5\src\spawn.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.5\src\future_obj.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.5\src\noop_waker.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.5\src\arc_wake.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.5\src\waker.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.5\src\waker_ref.rs
+
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.5\src\lib.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.5\src\spawn.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.5\src\future_obj.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.5\src\noop_waker.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.5\src\arc_wake.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.5\src\waker.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.5\src\waker_ref.rs:

@@ -1,0 +1,11 @@
+C:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\debug\deps\clipboard_win-5d75717d01b3cf49.rmeta: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src/lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\utils.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\formats.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\raw.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\image.rs
+
+C:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\debug\deps\libclipboard_win-5d75717d01b3cf49.rlib: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src/lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\utils.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\formats.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\raw.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\image.rs
+
+C:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\debug\deps\clipboard_win-5d75717d01b3cf49.d: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src/lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\utils.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\formats.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\raw.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\image.rs
+
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src/lib.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\utils.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\formats.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\raw.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\clipboard-win-2.2.0\src\image.rs:

@@ -1,0 +1,10 @@
+c:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\rls\debug\deps\futures_channel-4d70d6b75a8f3866.rmeta: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.5\src\lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.5\src\lock.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.5\src\mpsc\mod.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.5\src\mpsc\queue.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.5\src\mpsc\sink_impl.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.5\src\oneshot.rs
+
+c:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\rls\debug\deps\futures_channel-4d70d6b75a8f3866.d: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.5\src\lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.5\src\lock.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.5\src\mpsc\mod.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.5\src\mpsc\queue.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.5\src\mpsc\sink_impl.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.5\src\oneshot.rs
+
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.5\src\lib.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.5\src\lock.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.5\src\mpsc\mod.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.5\src\mpsc\queue.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.5\src\mpsc\sink_impl.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.5\src\oneshot.rs:

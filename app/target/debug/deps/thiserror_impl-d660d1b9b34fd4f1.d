@@ -1,0 +1,11 @@
+C:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\debug\deps\thiserror_impl-d660d1b9b34fd4f1.dll: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.20\src\lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.20\src\ast.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.20\src\attr.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.20\src\expand.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.20\src\fmt.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.20\src\prop.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.20\src\valid.rs
+
+C:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\debug\deps\thiserror_impl-d660d1b9b34fd4f1.d: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.20\src\lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.20\src\ast.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.20\src\attr.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.20\src\expand.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.20\src\fmt.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.20\src\prop.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.20\src\valid.rs
+
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.20\src\lib.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.20\src\ast.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.20\src\attr.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.20\src\expand.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.20\src\fmt.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.20\src\prop.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.20\src\valid.rs:

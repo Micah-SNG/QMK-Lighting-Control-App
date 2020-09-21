@@ -1,0 +1,8 @@
+C:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\debug\deps\byteorder-669c9a964b9a9457.rmeta: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\byteorder-1.3.4\src\lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\byteorder-1.3.4\src\io.rs
+
+C:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\debug\deps\libbyteorder-669c9a964b9a9457.rlib: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\byteorder-1.3.4\src\lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\byteorder-1.3.4\src\io.rs
+
+C:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\debug\deps\byteorder-669c9a964b9a9457.d: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\byteorder-1.3.4\src\lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\byteorder-1.3.4\src\io.rs
+
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\byteorder-1.3.4\src\lib.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\byteorder-1.3.4\src\io.rs:

@@ -1,0 +1,12 @@
+c:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\rls\debug\deps\orbclient-3c489fe7b93fa1b6.rmeta: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src/lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src\blur.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src\color.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src\event.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src\graphicspath.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src\renderer.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src\sys\sdl2.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src\../res/unifont.font
+
+c:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\rls\debug\deps\orbclient-3c489fe7b93fa1b6.d: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src/lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src\blur.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src\color.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src\event.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src\graphicspath.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src\renderer.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src\sys\sdl2.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src\../res/unifont.font
+
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src/lib.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src\blur.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src\color.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src\event.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src\graphicspath.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src\renderer.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src\sys\sdl2.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\orbclient-0.3.27\src\../res/unifont.font:

@@ -1,0 +1,11 @@
+c:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\rls\debug\deps\futures_core-ebf62d3e317efd40.rmeta: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.5\src\lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.5\src\future.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.5\src\stream.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.5\src\task\mod.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.5\src\task\poll.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.5\src\task\__internal\mod.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.5\src\task\__internal\atomic_waker.rs
+
+c:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\rls\debug\deps\futures_core-ebf62d3e317efd40.d: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.5\src\lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.5\src\future.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.5\src\stream.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.5\src\task\mod.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.5\src\task\poll.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.5\src\task\__internal\mod.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.5\src\task\__internal\atomic_waker.rs
+
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.5\src\lib.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.5\src\future.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.5\src\stream.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.5\src\task\mod.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.5\src\task\poll.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.5\src\task\__internal\mod.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-core-0.3.5\src\task\__internal\atomic_waker.rs:

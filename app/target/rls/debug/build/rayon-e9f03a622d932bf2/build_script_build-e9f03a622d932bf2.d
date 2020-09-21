@@ -1,0 +1,5 @@
+c:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\rls\debug\build\rayon-e9f03a622d932bf2\build_script_build-e9f03a622d932bf2.exe: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\rayon-1.4.0\build.rs
+
+c:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\rls\debug\build\rayon-e9f03a622d932bf2\build_script_build-e9f03a622d932bf2.d: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\rayon-1.4.0\build.rs
+
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\rayon-1.4.0\build.rs:

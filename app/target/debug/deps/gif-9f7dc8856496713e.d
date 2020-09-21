@@ -1,0 +1,12 @@
+C:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\debug\deps\gif-9f7dc8856496713e.rmeta: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\traits.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\common.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\mod.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\decoder.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\encoder.rs
+
+C:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\debug\deps\libgif-9f7dc8856496713e.rlib: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\traits.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\common.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\mod.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\decoder.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\encoder.rs
+
+C:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\debug\deps\gif-9f7dc8856496713e.d: C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\lib.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\traits.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\common.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\mod.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\decoder.rs C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\encoder.rs
+
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\lib.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\traits.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\common.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\mod.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\reader\decoder.rs:
+C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\gif-0.10.3\src\encoder.rs:
