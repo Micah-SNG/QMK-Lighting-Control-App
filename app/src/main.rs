@@ -1,18 +1,14 @@
-extern crate hidapi;
-
-use hidapi::HidApi;
+use orbtk::prelude::*;
 
 fn main() {
-    println!("Printing all available hid devices:");
-
-    match HidApi::new() {
-        Ok(api) => {
-            for device in api.device_list() {
-                println!("{:04x}:{:04x}", device.vendor_id(), device.product_id());
-            }
-        },
-        Err(e) => {
-            eprintln!("Error: {}", e);
-        },
-    }
+      Application::new()
+        .window(|ctx| {
+            Window::new()
+                .title("OrbTk - minimal example")
+                .position((100.0, 100.0))
+                .size(420.0, 730.0)
+                .child(TextBlock::new().text("OrbTk").build(ctx))
+                .build(ctx)
+        })
+        .run();
 }

@@ -1,0 +1,1 @@
+cargo:rerun-if-changed=C:\Users\spide\.cargo\registry\src\github.com-1ecc6299db9ec823\cssparser-0.16.1\src/tokenizer.rs

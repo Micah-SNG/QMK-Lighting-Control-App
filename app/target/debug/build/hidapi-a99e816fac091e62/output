@@ -1,0 +1,44 @@
+TARGET = Some("x86_64-pc-windows-msvc")
+OPT_LEVEL = Some("0")
+HOST = Some("x86_64-pc-windows-msvc")
+CC_x86_64-pc-windows-msvc = None
+CC_x86_64_pc_windows_msvc = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-pc-windows-msvc = None
+CFLAGS_x86_64_pc_windows_msvc = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+DEBUG = Some("true")
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.26.28801\\bin\\HostX64\\x64\\cl.exe" "-nologo" "-MD" "-Z7" "-Brepro" "-I" "etc/hidapi/hidapi" "-W4" "-FoC:\\Users\\spide\\Documents\\GitHub\\QMK-Lighting-Control-App\\app\\target\\debug\\build\\hidapi-a99e816fac091e62\\out\\etc/hidapi/windows/hid.o" "-c" "etc/hidapi/windows/hid.c"
+hid.c
+etc/hidapi/windows/hid.c(175): warning C4100: 'op': unreferenced formal parameter
+etc/hidapi/windows/hid.c(404): warning C4456: declaration of 'res' hides previous local declaration
+etc/hidapi/windows/hid.c(276): note: see declaration of 'res'
+etc/hidapi/windows/hid.c(657): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+etc/hidapi/windows/hid.c(663): warning C4245: '=': conversion from 'int' to 'DWORD', signed/unsigned mismatch
+etc/hidapi/windows/hid.c(674): warning C4245: '=': conversion from 'int' to 'DWORD', signed/unsigned mismatch
+etc/hidapi/windows/hid.c(700): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+etc/hidapi/windows/hid.c(754): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+etc/hidapi/windows/hid.c(770): warning C4267: 'function': conversion from 'size_t' to 'ULONG', possible loss of data
+etc/hidapi/windows/hid.c(776): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+etc/hidapi/windows/hid.c(798): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+etc/hidapi/windows/hid.c(799): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+etc/hidapi/windows/hid.c(847): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+etc/hidapi/windows/hid.c(848): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+etc/hidapi/windows/hid.c(889): warning C4267: 'function': conversion from 'size_t' to 'ULONG', possible loss of data
+etc/hidapi/windows/hid.c(902): warning C4267: 'function': conversion from 'size_t' to 'ULONG', possible loss of data
+etc/hidapi/windows/hid.c(915): warning C4267: 'function': conversion from 'size_t' to 'ULONG', possible loss of data
+etc/hidapi/windows/hid.c(928): warning C4267: 'function': conversion from 'size_t' to 'ULONG', possible loss of data
+exit code: 0
+AR_x86_64-pc-windows-msvc = None
+AR_x86_64_pc_windows_msvc = None
+HOST_AR = None
+AR = None
+running: "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.26.28801\\bin\\HostX64\\x64\\lib.exe" "-out:C:\\Users\\spide\\Documents\\GitHub\\QMK-Lighting-Control-App\\app\\target\\debug\\build\\hidapi-a99e816fac091e62\\out\\libhidapi.a" "-nologo" "C:\\Users\\spide\\Documents\\GitHub\\QMK-Lighting-Control-App\\app\\target\\debug\\build\\hidapi-a99e816fac091e62\\out\\etc/hidapi/windows/hid.o"
+exit code: 0
+cargo:rustc-link-lib=static=hidapi
+cargo:rustc-link-search=native=C:\Users\spide\Documents\GitHub\QMK-Lighting-Control-App\app\target\debug\build\hidapi-a99e816fac091e62\out
+cargo:rustc-link-lib=setupapi

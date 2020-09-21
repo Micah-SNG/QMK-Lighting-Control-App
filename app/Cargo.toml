@@ -9,12 +9,6 @@ edition = "2018"
 [dependencies]
 hidapi = "1.2.3"
 orbtk = "0.2.31"
-sdl2-sys = "0.34.3"
-
-[dependencies.sdl2]
-version = "0.34.3"
-default-features = false
-features = ["ttf","image","gfx","mixer","static-link","use-vcpkg"]
 
 [package.metadata.vcpkg]
 dependencies = ["sdl2", "sdl2-image[libjpeg-turbo,tiff,libwebp]", "sdl2-ttf", "sdl2-gfx", "sdl2-mixer"]
